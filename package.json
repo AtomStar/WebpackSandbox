@@ -1,0 +1,10 @@
+{
+"name": "webpack-sandbox",
+"version": "1.0.0",
+"main": "index.js",
+"author": {
+    "name": "Ewald Stieger"
+},
+"license": "MIT"
+
+}
